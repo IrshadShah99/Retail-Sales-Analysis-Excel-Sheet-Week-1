@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:2196F3,100:0D47A1&height=260&section=header&text=Retail%20Sales%20Excel%20Analysis&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Week%201%20Data%20Analyst%20Internship%20Task%20•%20Logic%20Stack&descAlignY=60&descSize=20&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:2196F3,100:0D47A1&height=260&section=header&text=Retail%20Sales%20Excel%20Analysis&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Week%201%20Logistics%20Data%20Analyst%20Internship%20Task%20•%20YuvaIntern&descAlignY=60&descSize=20&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=Cleaning+Real-World+Retail+Sales+Data+in+Excel;Performing+Data+Quality+Checks+%26+Validation;Building+Pivot-Style+Summaries+with+Formulas;Visualizing+Insights+with+Native+Excel+Charts;Logic+Stack+Data+Analyst+Internship+-+Week+1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=Cleaning+Real-World+Retail+Sales+Data+in+Excel;Performing+Data+Quality+Checks+%26+Validation;Building+Pivot-Style+Summaries+with+Formulas;Visualizing+Insights+with+Native+Excel+Charts;YuvaIntern+Logistics+Data+Analyst+Internship+-+Week+1" />
 
 <br/>
 
@@ -15,8 +15,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 
-[![Company](https://img.shields.io/badge/Company-Logic%20Stack-d4af37?style=flat-square)](#)
-[![Role](https://img.shields.io/badge/Role-Data%20Analyst%20Intern-1a1200?style=flat-square)](#)
+[![Company](https://img.shields.io/badge/Company-Yuva%20Intern-d4af37?style=flat-square)](#)
+[![Role](https://img.shields.io/badge/Role-Logistics%20Data%20Analyst%20Intern-1a1200?style=flat-square)](#)
 [![Week](https://img.shields.io/badge/Week-1%20of%20Internship-3d2e00?style=flat-square)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](#)
 [![License](https://img.shields.io/badge/License-CPL-blue.svg?style=flat-square)](#license)
@@ -33,7 +33,7 @@ The goal of this task was to take a raw, real-world retail sales dataset and wal
 
 This is my **first hands-on Data Analytics project**, and it forms the foundation for the more advanced analysis work planned in the upcoming weeks of the internship.
 
-> 💼 **Internship:** Logic Stack — Data Analysis Internship (Jun 2026)
+> 💼 **Internship:** YuvaIntern — Logistics Data Analysis Internship (July 2026)
 
 > 🧩 **Task:** Week 1 — Retail Sales Data Cleaning & Basic Analysis in Excel
 
@@ -48,14 +48,14 @@ This is my **first hands-on Data Analytics project**, and it forms the foundatio
 
 | Detail | Description |
 |---|---|
-| 🏢 **Company** | Logic Stack |
-| 👨‍💻 **Role** | Data Analyst Intern |
+| 🏢 **Company** | YuvaIntern |
+| 👨‍💻 **Role** | Logistics Data Analyst Intern |
 | 📅 **Task** | Week 1 Assignment |
 | 🧠 **Focus Area** | Excel-based Data Cleaning & Analysis |
 | 📂 **Dataset** | Retail Sales Transactions (1,000 records) |
 
 
-Logic Stack's Data Analysis Internship is designed to build practical, job-ready data analytics skills — starting with the fundamentals of Excel before progressing into more advanced tools like SQL, Python and BI dashboards. This repository documents my **Week 1** progress and deliverables.
+YuvaIntern's Logistics Data Analysis Internship is designed to build practical, job-ready data analytics skills — starting with the fundamentals of Excel before progressing into more advanced tools like SQL, Python and BI dashboards. This repository documents my **Week 1** progress and deliverables.
 
 ---
 
@@ -276,7 +276,6 @@ week-1-retail-sales-excel-analysis/
 │   └── sales-by-gender-chart.png
 │
 ├── README.md
-└── LICENSE
 ```
 
 ---
@@ -287,10 +286,11 @@ No installation required — this is an Excel-based analysis project.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YasirAwan4831/week-1-retail-sales-excel-analysis.git
-
+git clone https://github.com/IrshadShah99/Retail-Sales-Analysis-Excel-Sheet-Week-1
+.git
 # 2. Open the analysis file in Microsoft Excel
-cd week-1-retail-sales-excel-analysis/analysis
+cd Retail-Sales-Analysis-Excel-Sheet-Week-1
+/analysis
 start Retail_Sales_Excel_Analysis.xlsx
 ```
 
